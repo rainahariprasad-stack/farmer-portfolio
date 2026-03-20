@@ -3,7 +3,7 @@ export default function Home() {
     <main>
       {/* Navigation */}
       <nav className="glass container" style={{ position: 'sticky', top: '20px', zIndex: 100, display: 'flex', justifyContent: 'space-between', padding: '16px 32px', alignItems: 'center', marginBottom: '80px', marginTop: '20px' }}>
-        <h1 className="text-gradient" style={{ fontSize: '1.5rem', margin: 0 }}>Rajaiah Nanaboina Farmer</h1>
+        <h1 className="text-gradient" style={{ fontSize: '1.5rem', margin: 0 }}>Rajaiah FarmBridge</h1>
         <div style={{ display: 'flex', gap: '24px', fontWeight: 500 }}>
           <a href="#about" className="nav-link">About</a>
           <a href="#products" className="nav-link">Products</a>
@@ -98,7 +98,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="container glass" style={{ margin: '140px auto 40px auto', padding: '50px 40px', textAlign: 'center' }}>
-        <h3 style={{ fontSize: '2rem', marginBottom: '15px', color: 'var(--color-green-light)' }}>Rajaiah Nanaboina Farmer</h3>
+        <h3 style={{ fontSize: '2rem', marginBottom: '15px', color: 'var(--color-green-light)' }}>Rajaiah FarmBridge</h3>
         <p style={{ opacity: 0.8, fontSize: '1.1rem' }}>Cultivating success and sustainability together.</p>
       </footer>
     </main>
